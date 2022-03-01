@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kassandra-ts
 - 👀 I’m interested in learning code.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me: kassandra.tovarseg@gmail.com
 
 <!---
