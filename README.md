@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kassandra-ts
-- 👀 I’m interested in learning code.
+- 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: kassandra.tovarseg@gmail.com
 
