@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kassandra-ts
 - 👀 I’m interested in learning code.
-- 🌱 I’m currently learning how to work with backend frameworks.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me: kassandra.tovarseg@gmail.com
 
 <!---
